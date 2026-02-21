@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+transformers
+torch
+faiss-cpu
+rank-bm25
+pymupdf
+numpy
+scikit-learn
